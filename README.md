@@ -88,3 +88,8 @@ This document provides a minimum set of guidelines for Network
   is the product of the Responsible Use of the Network (RUN) Working
   Group of the IETF.
   
+### Pregunta 5  
+**(10 puntos) ¿Cómo pide auxilio una vaca paranoica?**  
+Así:
+  
+![image](https://user-images.githubusercontent.com/77593400/213087296-23e5507d-21e7-4d11-9aab-81af60daa06d.png)
