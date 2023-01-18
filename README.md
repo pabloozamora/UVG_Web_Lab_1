@@ -23,3 +23,10 @@ Sin embargo, al obtener la lámpara de la sala de estar y volver a subir, esta p
 
 ![image](https://user-images.githubusercontent.com/77593400/213071891-e4efefaa-3646-4a90-83cd-bd487d0268a7.png)
   
+### Pregunta 3  
+**(20 puntos) ¿Cuál es el output de éste programa de Brainf*ck?  
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.**  
+  
+El output del programa imprime 'Hello World!'  
+  
+![image](https://user-images.githubusercontent.com/77593400/213077447-ef3a4fd2-fbbf-48ad-ba4d-48ef5056aa4d.png)
