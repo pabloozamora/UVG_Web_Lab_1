@@ -93,3 +93,10 @@ This document provides a minimum set of guidelines for Network
 Así:
   
 ![image](https://user-images.githubusercontent.com/77593400/213087296-23e5507d-21e7-4d11-9aab-81af60daa06d.png)
+  
+### Pregunta 6  
+**(5 puntos) ¿Cuál fue el mejor chiste que les contó el sitio?**  
+"Es una leyenda en su propia mente":  
+  
+![image](https://user-images.githubusercontent.com/77593400/213088153-bdbf6fb1-4c0a-4efe-bd4c-7991968c7915.png)
+  
