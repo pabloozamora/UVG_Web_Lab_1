@@ -17,3 +17,9 @@ Sin embargo, al obtener la lámpara de la sala de estar y volver a subir, esta p
   
 ![image](https://user-images.githubusercontent.com/77593400/213055430-6cc9ac86-e46b-4a2a-b5db-5acf0d00bd07.png)
   
+### Pregunta 2  
+**(10 puntos) Traduzcan la siguiente frase a clave morse: "ye shall be as gods"**  
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...  
+
+![image](https://user-images.githubusercontent.com/77593400/213071891-e4efefaa-3646-4a90-83cd-bd487d0268a7.png)
+  
